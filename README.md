@@ -45,5 +45,5 @@ It contains basic practicals on operating system in shell script.
 11) Practical-11
     a) Write a program to implement CPU scheduling algorithm which finds turnaround time, 
        average time and waiting time of the process SRTF.
-    b) Implement Banker's Algorithm in C
+    b) Implement Banker's Algorithm in C.
     
